@@ -1,4 +1,4 @@
-token=NTA5NDk1NTQ4NjcyMzQ0MDY3.DtRgoQ.Mznm52i8eOQaBUbkmYXNm1vt-ak
+token=NTE0ODc5NjM2MTY2MTQ4MTAy.Dtc-oQ.7jOloWb_LsXSRfm-R5eZ9ZQ5D-o
 owner=391306171278950401
 prefix=b
 game= Salman Music!.
